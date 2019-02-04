@@ -3,11 +3,11 @@
 ## Week 1: Introduction: IPython: Beyond Normal Python
 **(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Today's Progress**: Went through the Python for Data Science Handbook and familiarized myself with the IPython commands. Experimented with a few of them just to see if I understood.
 
-**Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
+**Thoughts**: It was a bit challenging getting started, but overall I think I made significant progress. Using Git and Github is also new for me but I think I've gotten the hang of it.
 
-**Link to work**: [introduction(Ipython)](www.example.com)
+**Link to work**: http://localhost:8888/notebooks/FaithMuthoniWk1.ipynb#
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
@@ -88,4 +88,3 @@
 * [Log - click here to see my progress](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/log.md)
 * [Resources](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/resources.md)
 * [FAQ](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/FAQ.md)
-
