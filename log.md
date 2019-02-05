@@ -11,11 +11,11 @@
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
-**This week's Progress**:
+**This week's Progress**: Still struggling a bit with Github but should be able to push changes this week. Tried out a couple of the steps in the handbok and got most of them right on the first attempt. Noting down my errors to find out if they are mostly syntax or logic.
 
-**Thoughts**:
+**Thoughts**:Numpy is interesting and relates with some of the things I have done in school, particularly in foundation mathematics units.
 
-**Link to work**:
+**Link to work**: http://localhost:8888/notebooks/FaithMuthoniWk2.ipynb
 
 ## Week 3: Chapter 3: Data Manipulation with Pandas
 
