@@ -23,7 +23,7 @@
 
 **Thoughts**:
 
-**Link to work**:
+**Link to work**: http://localhost:8888/notebooks/FaithMuthoniWk3.ipynb
 
 ## Week 4: Practice(Challenge 1)
 
